@@ -43,7 +43,7 @@ import type { SlidersIcon } from '#build/components'; import type { SlidersIcon
                 </div>
                 <div class="line"></div>
 
-                <a class="hg-btn" v-if="slide.href" href="http://linox.candelaria.test/" target="_blank">
+                <a class="hg-btn" v-if="slide.href" href="http://candelaria.linox.net.pe/" target="_blank">
                   <span class="text"> {{ slide.titleHref }} </span>
 
                   <span class="icon">
