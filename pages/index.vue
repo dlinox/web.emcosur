@@ -135,7 +135,7 @@
               Venta de entradas para la fiesta de la Candelaria 2024
             </h3>
 
-            <a href="http://candelaria.linox.net.pe/" target="_blank" class="btn">
+            <a href="https://eventos.emcosurkf.com.pe" target="_blank" class="btn">
               <span> Comprar entradas </span>
               <i class="fa-solid fa-arrow-right"></i>
             </a>

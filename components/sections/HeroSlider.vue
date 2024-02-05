@@ -43,7 +43,7 @@ import type { SlidersIcon } from '#build/components'; import type { SlidersIcon
                 </div>
                 <div class="line"></div>
 
-                <a class="hg-btn" v-if="slide.href" href="http://candelaria.linox.net.pe/" target="_blank">
+                <a class="hg-btn" v-if="slide.href" href="https://eventos.emcosurkf.com.pe" target="_blank">
                   <span class="text"> {{ slide.titleHref }} </span>
 
                   <span class="icon">
@@ -72,7 +72,7 @@ const _sliders = [
     description: "Venta de entradas para la fiesta de la Candelaria 2024",
     img: "/images/banner/candelaria.png",
     titleHref: "Comprar entradas",
-    href: "http://linox.candelaria.test/",
+    href: "https://eventos.emcosurkf.com.pe",
   },
   {
     title: "EJECUCIÓN DE PROYECTOS ARQUITECTÓNICOS",
