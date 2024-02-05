@@ -15,7 +15,7 @@
         <div class="_social">
           <a
             class="_item"
-            href="https://www.facebook.com/profile.php?id=61555401916261&locale=es_LA"
+            href="https://www.facebook.com/profile.php?id=61555943546151&sfnsn=wa&mibextid=RUbZ1f"
             target="_blank"
           >
             <i class="fa-brands fa-square-facebook"></i>

@@ -310,7 +310,7 @@ const services = [
     title: "REFACCIONAMIENTOS",
     description:
       "Renovaciones creativas para mejorar estética y funcionalidad.",
-    img: "/images/services/Construcciones-y-Refacciones1.jpg",
+    img: "/images/services/refac.jpeg",
   },
 ];
 </script>
